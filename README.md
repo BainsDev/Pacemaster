@@ -5,8 +5,9 @@
 
 <h4 align="center">A mobile application designed to provide runners with the features they want most. </h4>
 
-![screenshot](https://raw.githubusercontent.com/H-Bains/Pacemaster/master/Pacemaster.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/H-Bains/Pacemaster/master/Pacemaster.png">
+</p>
 
 ## Description
 
